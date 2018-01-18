@@ -8,7 +8,7 @@ public class ConnectionManager {
 	private static ConnectionManager instance = null;
 	
 	private final String USERNAME = "root";
-	private final String PASSWORD = "dmf8lsdq";
+	private final String PASSWORD = "1234";
 	private final String M_CONN_STRING = "jdbc:mysql://localhost/bankdatabase";
 	
 	private DBType dbType = DBType.MYSQL;
